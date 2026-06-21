@@ -33,7 +33,5 @@ This project analyzes Spotify’s **Top 50 Global Songs dataset** and builds an 
 - Insights into song duration and album types
 
 ## ▶️ How to Run
-1. Clone repo: 
-
-## 📢 Author
-Built with ❤️ by [Your Name]
+1. Clone repo: 'https://github.com/rhythm5999/Spotify-Dashboard/blob/main/power%20bi%20spotify%20complete.pbix'
+   
